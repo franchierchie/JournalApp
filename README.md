@@ -30,6 +30,15 @@ bun dev
 Open http://localhost:5173 with your browser to see the result.
 
 
+## Technologies Used
+
+ - React JS.
+ - Redux Toolkit.
+ - React Router.
+ - Firebase - Firestore.
+ - Material UI.
+
+
 ## Usage
 
 ### Log in / Register
@@ -58,11 +67,4 @@ Don't forget to press the save button adding all the important information! Othe
 After saving the note, this pop-up should be shown:
 
 ![Save pop-up](https://drive.google.com/uc?export=view&id=1GmCKxHTbpL0WD042QadhCc2CXYNAAGcm)
-## Technologies Used
-
- - React JS.
- - Redux Toolkit.
- - React Router.
- - Firebase - Firestore.
- - Material UI.
 
